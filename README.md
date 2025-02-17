@@ -3,3 +3,5 @@ This is a simple project showing how to properly run a powershell script that ru
 
 
 Simply double `RunThisBat.bat` to run the demo.
+
+![](screenshots/main.png)
