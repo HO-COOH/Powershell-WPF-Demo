@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -C "Add-Type -AssemblyName PresentationFramework; & '%CD%\WPF.ps1'"
